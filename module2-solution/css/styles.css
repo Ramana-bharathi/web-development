@@ -118,3 +118,12 @@ h2 {
     padding: 10px;
     padding-top: 10%;
 }
+#h1 {
+    background-color: orange
+}
+#h2 {
+    background-color: yellow;
+}
+#h3 {
+    background-color: blue;
+}
