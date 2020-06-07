@@ -103,7 +103,7 @@ h1 {
 }
 .box {
     background-color: aqua;
-    border: 1px solid black;
+    border: 2px solid black;
     position: relative;
     top:20px; 
     margin: 5px;
@@ -111,7 +111,8 @@ h1 {
 h2 {
     float: right;
     margin: 0px;
-    width: fit-content; 
+    width: fit-content;
+    border: 2px solid black; 
 }
 .content {
     padding: 10px;
